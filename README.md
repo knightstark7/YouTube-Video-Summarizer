@@ -69,7 +69,6 @@ This application uses PocketFlow, a minimalist LLM framework, to create a MapRed
 
 - Python 3.7+
 - OpenAI API key
-- Internet connection to access YouTube and OpenAI services
 
 ## Limitations
 
